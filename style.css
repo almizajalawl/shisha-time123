@@ -1,0 +1,7 @@
+
+body{margin:0;font-family:Arial;background:#000;color:#d7b15b;text-align:center}
+header{padding:15px;font-size:20px;font-weight:bold}
+.products{padding:20px}
+.card{border:1px solid #d7b15b;padding:15px;border-radius:10px}
+button{padding:10px 15px;background:#d7b15b;border:0;border-radius:6px}
+footer{margin-top:30px}
